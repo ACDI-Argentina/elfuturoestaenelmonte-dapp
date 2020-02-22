@@ -24,6 +24,7 @@
     "lpp-campaign": "1.0.0",
     "lpp-capped-milestone": "1.0.2",
     "lpp-milestones": "^1.0.0-beta.1",
+    "make": "^0.8.1",
     "minimetoken": "^0.2.0",
     "moment": "^2.24.0",
     "node-fetch": "^2.3.0",
@@ -60,6 +61,7 @@
     "whatwg-fetch": "^2.0.3"
   },
   "devDependencies": {
+    "make": "^0.8.1",
     "eslint": "^5.16.0",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-config-prettier": "^6.7.0",
